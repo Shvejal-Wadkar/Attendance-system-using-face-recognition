@@ -1,4 +1,4 @@
-Project Name :  Face Recognition Attendance System Software 
+Project Name :  Face Recognition Attendance System Software, 
 Facility Technology : Python  
 Description :   
             • An Attendance System Using Face Recognition feature with OpenCV library of Python .  
